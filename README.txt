@@ -1,3 +1,6 @@
+crypto
+https://jolly-kangaroo-e551b5.netlify.app/BTC
+
 weblog
 https://adorable-cheesecake-3c749d.netlify.app/
 
