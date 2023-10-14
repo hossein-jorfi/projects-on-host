@@ -4,6 +4,9 @@ https://jolly-kangaroo-e551b5.netlify.app/BTC
 weblog
 https://adorable-cheesecake-3c749d.netlify.app/
 
+landing page
+https://landing-page-neon-five.vercel.app/
+
 shopping cart with context
 https://imaginative-pothos-749273.netlify.app/
 
